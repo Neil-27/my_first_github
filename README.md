@@ -1,2 +1,4 @@
 # my_first_github
-simple demo
+
+added a new line
+and removed another
